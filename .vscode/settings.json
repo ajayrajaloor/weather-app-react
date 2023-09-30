@@ -1,0 +1,14 @@
+{
+    "remote.extensionKind": {
+        
+        "pub.name": [
+            "ui"
+        ],
+        "emmet.excludeLanguages" : [
+            "markdown"
+        ],
+        "emmet.includeLanguages" : {
+            "javascript" : "javascriptreact"
+        }
+    }
+}
